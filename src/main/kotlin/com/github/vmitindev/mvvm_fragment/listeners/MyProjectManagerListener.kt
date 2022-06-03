@@ -1,9 +1,9 @@
-package com.github.vmitindev.templatepluginforandroidstudio.listeners
+package com.github.vmitindev.mvvm_fragment.listeners
 
+import com.github.vmitindev.mvvm_fragment.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import com.github.vmitindev.templatepluginforandroidstudio.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

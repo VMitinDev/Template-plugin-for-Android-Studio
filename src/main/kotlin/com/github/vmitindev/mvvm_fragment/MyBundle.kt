@@ -1,4 +1,4 @@
-package com.github.vmitindev.templatepluginforandroidstudio
+package com.github.vmitindev.mvvm_fragment
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

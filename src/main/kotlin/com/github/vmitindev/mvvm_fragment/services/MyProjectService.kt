@@ -1,7 +1,7 @@
-package com.github.vmitindev.templatepluginforandroidstudio.services
+package com.github.vmitindev.mvvm_fragment.services
 
 import com.intellij.openapi.project.Project
-import com.github.vmitindev.templatepluginforandroidstudio.MyBundle
+import com.github.vmitindev.mvvm_fragment.MyBundle
 
 class MyProjectService(project: Project) {
 

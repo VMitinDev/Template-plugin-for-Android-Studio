@@ -1,1 +1,1 @@
-rootProject.name = "Template-plugin-for-Android-Studio"
+rootProject.name = "Fragment (Saldo)"
